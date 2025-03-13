@@ -29,10 +29,10 @@ description = (
     "Providing knowledge panels for a particular Open Food Facts facet "
     "(category, brand, etc...)\n\n"
     "A standardized way for clients to get semi-structured "
-    "but generic data that they can present to users on product pages.\n"
+    "but generic data that they can presentto users on product pages.\n"
     "You can contribute at https://github.com/openfoodfacts/facets-knowledge-panels\n"
     "You should also read "
-    "https://openfoodfacts.github.io/openfoodfacts-server/api/explain-knowledge-panels/ "
+    "https://openfoodfacts.github.io/openfoodfacts-server/api/explain-knowledge-panels/"
     "for the Product Page knowledge panels "
     "which follow the same syntax (the docs provides a conceptual overview)."
 )  # noqa: E501
